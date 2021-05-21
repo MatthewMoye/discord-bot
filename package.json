@@ -1,0 +1,15 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "discordTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "eslint-config-strongloop": "^2.1.0"
+  }
+}
